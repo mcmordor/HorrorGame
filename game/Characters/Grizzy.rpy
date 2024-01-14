@@ -1,1 +1,1 @@
-define grizzy = Character("Grizzy", color = "#515a0e")
+define grisrael = Character("Grisrael", color = "#515a0e")
